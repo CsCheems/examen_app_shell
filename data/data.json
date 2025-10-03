@@ -1,0 +1,18 @@
+
+{
+  "papeleria": [
+    { "nombre": "Cuaderno", "precio": "$35" },
+    { "nombre": "Bolígrafo", "precio": "$10" },
+    { "nombre": "Mochila", "precio": "$250" }
+  ],
+  "electronica": [
+    { "nombre": "Audífonos", "precio": "$400" },
+    { "nombre": "Teclado", "precio": "$600" },
+    { "nombre": "Mouse", "precio": "$300" }
+  ],
+  "snacks": [
+    { "nombre": "Galletas", "precio": "$15" },
+    { "nombre": "Refresco", "precio": "$20" },
+    { "nombre": "Papas", "precio": "$18" }
+  ]
+}
